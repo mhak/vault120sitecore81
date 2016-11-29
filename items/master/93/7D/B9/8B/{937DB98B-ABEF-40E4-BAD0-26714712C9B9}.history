@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{937DB98B-ABEF-40E4-BAD0-26714712C9B9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T20:03:01.5739193Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sample Item",
+    "itemPath": "/sitecore/content/Home/Sample Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]
