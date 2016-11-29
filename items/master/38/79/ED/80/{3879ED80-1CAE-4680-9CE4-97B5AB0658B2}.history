@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3879ED80-1CAE-4680-9CE4-97B5AB0658B2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:55.5330741Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Current Interaction is at venue type condition",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Venue/Current Interaction is at venue type condition",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

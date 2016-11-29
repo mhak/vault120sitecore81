@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5ABD49C9-2DB6-4299-8E03-DBBB0CB190EC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:46.4189846Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Details",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset/Data/Details",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

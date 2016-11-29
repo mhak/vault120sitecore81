@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DF9486E3-C239-406E-83DD-7A30BEF2599D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:26.9494392Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Multiple",
+    "itemPath": "/sitecore/system/Settings/Analytics/Preset Types/Multiple",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

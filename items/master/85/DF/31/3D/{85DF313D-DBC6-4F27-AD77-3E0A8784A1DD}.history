@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{85DF313D-DBC6-4F27-AD77-3E0A8784A1DD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:40.2786334Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Variable",
+    "itemPath": "/sitecore/templates/System/Content Testing/Test Variable",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

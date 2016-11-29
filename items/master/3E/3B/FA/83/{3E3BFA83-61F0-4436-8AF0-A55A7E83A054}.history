@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3E3BFA83-61F0-4436-8AF0-A55A7E83A054}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:21.0951044Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lithuania",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Lithuania",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

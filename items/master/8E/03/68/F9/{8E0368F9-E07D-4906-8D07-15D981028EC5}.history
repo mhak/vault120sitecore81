@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8E0368F9-E07D-4906-8D07-15D981028EC5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:42:11.0163915Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OutcomeMap",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/OutcomeMap",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

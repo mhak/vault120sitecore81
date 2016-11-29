@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB29498C-6AD9-4988-B8EE-1B3D57E7D9B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:58.9162676Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Treelist",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Treelist",
+    "template": "Macro",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

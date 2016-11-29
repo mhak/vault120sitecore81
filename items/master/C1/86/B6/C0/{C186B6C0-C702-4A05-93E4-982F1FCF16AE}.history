@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C186B6C0-C702-4A05-93E4-982F1FCF16AE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:48.3056607Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Has Specific Field Type",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Fields/Has Specific Field Type",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

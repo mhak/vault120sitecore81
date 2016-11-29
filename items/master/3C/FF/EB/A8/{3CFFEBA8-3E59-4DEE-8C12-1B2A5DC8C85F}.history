@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3CFFEBA8-3E59-4DEE-8C12-1B2A5DC8C85F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:35.1699094Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Load Item",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Load Item",
+    "template": "Quick Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

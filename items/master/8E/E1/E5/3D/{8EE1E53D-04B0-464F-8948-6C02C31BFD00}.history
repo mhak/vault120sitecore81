@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8EE1E53D-04B0-464F-8948-6C02C31BFD00}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:42:39.2740077Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "BaseDimension",
+    "itemPath": "/sitecore/templates/System/Experience Analytics/BaseDimension",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

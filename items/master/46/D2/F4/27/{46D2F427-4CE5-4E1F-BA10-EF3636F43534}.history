@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{46D2F427-4CE5-4E1F-BA10-EF3636F43534}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:39:45.5660722Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Print",
+    "itemPath": "/sitecore/layout/Devices/Print",
+    "template": "Device",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

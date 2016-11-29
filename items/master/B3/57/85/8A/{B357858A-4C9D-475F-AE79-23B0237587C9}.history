@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B357858A-4C9D-475F-AE79-23B0237587C9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:20.5230716Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Jordan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Jordan",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

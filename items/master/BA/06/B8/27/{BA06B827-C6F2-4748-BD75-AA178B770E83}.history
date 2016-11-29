@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BA06B827-C6F2-4748-BD75-AA178B770E83}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:06.9002925Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Function",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function",
+    "template": "Profile",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

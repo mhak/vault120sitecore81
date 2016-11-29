@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3C36DA30-8346-4A96-BC02-CD1FDB7501FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:44.1618555Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Target Database",
+    "itemPath": "/sitecore/templates/System/Content Testing/Workflow/Deploy Associated Tests Action/Targets/Target Database",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

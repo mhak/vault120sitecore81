@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{07481CC9-1622-44CC-8FC2-A023025B8481}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:06.2342544Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Most Outcomes Paths",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Reports/Most Outcomes Paths",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

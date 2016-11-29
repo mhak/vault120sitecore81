@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CD35E9CC-8A38-4F29-BA95-DC1C89A4B48F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:42:10.7093739Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ChannelMap",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/ChannelMap",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

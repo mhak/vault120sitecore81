@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB443C0B-F923-409E-85F3-E7893C8C30C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:39:45.4580660Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sublayouts",
+    "itemPath": "/sitecore/layout/Sublayouts",
+    "template": "Node",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

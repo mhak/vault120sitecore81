@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{986A59FF-202C-4CA0-9A4C-64907E92B3C6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:43.0253587Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Venue",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Venue",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

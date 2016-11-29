@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8972ABAA-542B-464E-963B-38D36AB550B8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:39:45.0300416Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "social",
+    "itemPath": "/sitecore/social",
+    "template": "Main section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

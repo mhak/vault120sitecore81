@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E18F4BC6-46A2-4842-898B-B6613733F06F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:39:45.2880563Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Devices",
+    "itemPath": "/sitecore/layout/Devices",
+    "template": "Node",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

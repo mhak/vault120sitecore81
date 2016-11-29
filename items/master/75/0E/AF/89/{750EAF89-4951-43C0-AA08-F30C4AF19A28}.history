@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{750EAF89-4951-43C0-AA08-F30C4AF19A28}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:48.1330827Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/__Standard Values",
+    "template": "RSS Feed",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

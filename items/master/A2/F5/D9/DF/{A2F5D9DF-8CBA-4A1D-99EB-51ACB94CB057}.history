@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A2F5D9DF-8CBA-4A1D-99EB-51ACB94CB057}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:42:03.7609765Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Editor Buttons",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/Rendering Options/Editor Options/Page Editor Buttons",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

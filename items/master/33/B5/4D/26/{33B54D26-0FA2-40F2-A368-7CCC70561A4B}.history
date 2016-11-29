@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{33B54D26-0FA2-40F2-A368-7CCC70561A4B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:04.5145878Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Indexing and Search",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Indexing and Search",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

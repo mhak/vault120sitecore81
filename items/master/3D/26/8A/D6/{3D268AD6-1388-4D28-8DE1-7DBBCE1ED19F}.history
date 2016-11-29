@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3D268AD6-1388-4D28-8DE1-7DBBCE1ED19F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:17.5479015Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bouvet Island",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bouvet Island",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

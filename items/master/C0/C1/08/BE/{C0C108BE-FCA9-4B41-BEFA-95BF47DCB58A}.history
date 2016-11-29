@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C0C108BE-FCA9-4B41-BEFA-95BF47DCB58A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:37.8740641Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Winner Strategies",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Test Winner Strategies",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

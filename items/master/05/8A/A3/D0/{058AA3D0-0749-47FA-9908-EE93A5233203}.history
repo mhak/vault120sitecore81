@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{058AA3D0-0749-47FA-9908-EE93A5233203}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:53.0829340Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact Classification",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder/Contact Classification",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

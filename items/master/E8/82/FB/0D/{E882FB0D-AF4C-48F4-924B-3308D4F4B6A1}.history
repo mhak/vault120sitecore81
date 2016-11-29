@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E882FB0D-AF4C-48F4-924B-3308D4F4B6A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:47.4780452Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Environment",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset Persona/Data/Environment",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

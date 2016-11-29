@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{893CA71D-2CC2-42C0-AAD5-02609D9E8200}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:42:25.5602234Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "AccessToken",
+    "itemPath": "/sitecore/templates/System/Social/Account/Network Account/Data/AccessToken",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

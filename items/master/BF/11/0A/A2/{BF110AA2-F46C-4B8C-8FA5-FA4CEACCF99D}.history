@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BF110AA2-F46C-4B8C-8FA5-FA4CEACCF99D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:42:35.1457716Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Reset blank",
+    "itemPath": "/sitecore/templates/System/Templates/Template field/Data/Reset blank",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

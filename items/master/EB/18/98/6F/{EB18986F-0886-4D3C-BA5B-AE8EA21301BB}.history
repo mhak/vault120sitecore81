@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB18986F-0886-4D3C-BA5B-AE8EA21301BB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:42:12.3194660Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "IncludeOutcomes",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/ExperienceMap/Options/IncludeOutcomes",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

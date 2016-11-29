@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{98B2FA9A-C3AC-4B0D-90B4-6F439C60463E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:54.8730364Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Set Winner",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Set Winner",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

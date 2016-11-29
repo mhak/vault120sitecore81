@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DC773C4F-DF6C-4FF0-927D-BC4069003687}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:43.6318252Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Launch Create Test Dialog Action",
+    "itemPath": "/sitecore/templates/System/Content Testing/Workflow/Launch Create Test Dialog Action",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

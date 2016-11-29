@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0CC4AD84-F69D-44D2-9600-5C7522AA2401}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:37.2964628Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "File Name",
+    "itemPath": "/sitecore/templates/System/Analytics/Report/Data/File Name",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

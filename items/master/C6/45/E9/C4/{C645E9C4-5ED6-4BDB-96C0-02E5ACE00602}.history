@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C645E9C4-5ED6-4BDB-96C0-02E5ACE00602}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:48.6581127Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HTML Tidy",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Tidy",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

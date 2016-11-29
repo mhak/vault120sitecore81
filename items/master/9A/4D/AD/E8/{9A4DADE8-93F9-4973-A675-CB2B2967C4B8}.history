@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9A4DADE8-93F9-4973-A675-CB2B2967C4B8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:45.7645154Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Browser",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device/Browser",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

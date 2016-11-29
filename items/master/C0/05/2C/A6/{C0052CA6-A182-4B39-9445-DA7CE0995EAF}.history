@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C0052CA6-A182-4B39-9445-DA7CE0995EAF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:13.9541277Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Grouped Droplist",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/Grouped Droplist",
+    "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EC6D62A5-5D00-4329-8958-8AC1AD100EBB}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-11-29T19:42:14.9276152Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Strip",
+    "itemPath": "/sitecore/templates/System/Ribbon/Strip",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{453004DB-0396-4D30-80D6-39CFDF244F32}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-11-29T19:42:19.3468680Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Hidden by Default",
+    "itemPath": "/sitecore/templates/System/Ribbon/Strip/Data/Hidden by Default",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{983E7347-8010-4374-9771-6193ABE44F6C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:35.2079116Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lock for Editing",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Lock for Editing",
+    "template": "Quick Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

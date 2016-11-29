@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{09C77BD0-9022-4867-A75A-4C45176AFCFD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:39:51.3034004Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rate",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Rate",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

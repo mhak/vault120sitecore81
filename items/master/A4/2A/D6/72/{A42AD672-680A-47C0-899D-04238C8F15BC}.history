@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A42AD672-680A-47C0-899D-04238C8F15BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:38.5695356Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Completed",
+    "itemPath": "/sitecore/templates/System/Archiving/Archived item/Data/Completed",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

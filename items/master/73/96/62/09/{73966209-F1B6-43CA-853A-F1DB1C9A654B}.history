@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{73966209-F1B6-43CA-853A-F1DB1C9A654B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:39:45.6070746Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Feed",
+    "itemPath": "/sitecore/layout/Devices/Feed",
+    "template": "Device",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

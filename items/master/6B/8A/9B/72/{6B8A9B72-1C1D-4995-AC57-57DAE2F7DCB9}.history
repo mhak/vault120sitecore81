@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6B8A9B72-1C1D-4995-AC57-57DAE2F7DCB9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:22.3841781Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Niue",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Niue",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

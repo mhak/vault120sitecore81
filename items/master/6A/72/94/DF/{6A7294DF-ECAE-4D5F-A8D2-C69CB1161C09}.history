@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6A7294DF-ECAE-4D5F-A8D2-C69CB1161C09}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:03.7755455Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "is not case-insensitively equal to",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators/is not case-insensitively equal to",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

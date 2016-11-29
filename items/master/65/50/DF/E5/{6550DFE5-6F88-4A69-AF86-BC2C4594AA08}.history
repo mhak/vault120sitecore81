@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6550DFE5-6F88-4A69-AF86-BC2C4594AA08}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:13.8091194Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Droplist",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/Droplist",
+    "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

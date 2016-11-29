@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{16DBEEB1-443D-4187-8FFA-81DAF5A2A336}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:36.9640120Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bookmark All",
+    "itemPath": "/sitecore/system/Settings/Buckets/Tab Options/Bookmark All",
+    "template": "Tab Option",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

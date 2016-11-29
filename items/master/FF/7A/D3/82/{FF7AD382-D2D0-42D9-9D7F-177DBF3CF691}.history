@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FF7AD382-D2D0-42D9-9D7F-177DBF3CF691}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:06.2022525Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Highest Monetary Value Paths",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Reports/Highest Monetary Value Paths",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

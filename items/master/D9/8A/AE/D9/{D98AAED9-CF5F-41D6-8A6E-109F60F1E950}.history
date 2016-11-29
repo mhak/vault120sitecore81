@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D98AAED9-CF5F-41D6-8A6E-109F60F1E950}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:26.5404158Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Register failed",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Register failed",
+    "template": "Page Event",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

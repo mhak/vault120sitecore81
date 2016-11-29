@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8C3B393D-FA75-46AC-95E5-49DC2E1C3D35}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:18.8064053Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Expired",
+    "itemPath": "/sitecore/system/Workflows/Social Account Renewal/Expired",
+    "template": "State",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

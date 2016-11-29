@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C808CDB5-EACD-4FCC-95B8-A9821EC35209}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:39:51.2693984Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Put in Basket",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Put in Basket",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

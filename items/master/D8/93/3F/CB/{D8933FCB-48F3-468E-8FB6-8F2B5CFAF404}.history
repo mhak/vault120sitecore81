@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D8933FCB-48F3-468E-8FB6-8F2B5CFAF404}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:04.6545958Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Hierarchy",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Item Hierarchy",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

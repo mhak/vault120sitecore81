@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{079AFCFE-8ACA-4863-BDA7-07893541E2F5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:42:31.6205700Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Skin",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Appearance/Appearance/__Skin",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

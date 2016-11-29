@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C36D22D2-94FC-46AC-91DB-2CF322C66895}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:32.3881821Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Flow designer items",
+    "itemPath": "/sitecore/templates/System/Analytics/Engagement Automation/Engagement Plan/Flow Designer/Flow designer items",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

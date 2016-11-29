@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FDC366C7-E9F2-4D28-8096-1E2F54999933}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:42.9903567Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Validation",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Validation",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

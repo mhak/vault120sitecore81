@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ADA1A7B1-F84D-419F-96E2-77F95006DC37}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:05.1286229Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sitecore Query",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Sitecore Query",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B7F73976-7586-4E9C-A5F2-1E2BC68C5BE3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:44.2404282Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Set Content Editor Warning",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Content Editor/Set Content Editor Warning",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

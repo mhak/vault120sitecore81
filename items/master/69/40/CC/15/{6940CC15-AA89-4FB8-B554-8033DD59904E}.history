@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6940CC15-AA89-4FB8-B554-8033DD59904E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:36.7444313Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Goal",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Card - Persona/Data/Goal",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

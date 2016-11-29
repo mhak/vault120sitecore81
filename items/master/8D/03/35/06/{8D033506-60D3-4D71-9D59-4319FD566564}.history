@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8D033506-60D3-4D71-9D59-4319FD566564}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:56.4061240Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Site Name",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Site Name",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

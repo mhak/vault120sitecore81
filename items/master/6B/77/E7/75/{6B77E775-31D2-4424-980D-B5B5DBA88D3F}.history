@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6B77E775-31D2-4424-980D-B5B5DBA88D3F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:27.3444618Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Average Time on Page",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Average Time on Page",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BF430C9D-C50F-4C64-B34B-4E2C5D3FD0B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:49.5461635Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Filter on button",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Tidy/Data/Filter on button",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

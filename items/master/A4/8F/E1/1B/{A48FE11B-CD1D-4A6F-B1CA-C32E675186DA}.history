@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A48FE11B-CD1D-4A6F-B1CA-C32E675186DA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:04.8496070Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Path Analyzer Map Groups",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Path Analyzer Map Groups",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

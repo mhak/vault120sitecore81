@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CCC9FA4C-C03E-4F68-B576-B423BEF01CB8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:11.0679626Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Scale Values",
+    "itemPath": "/sitecore/system/Settings/Simulators/Scale Values",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

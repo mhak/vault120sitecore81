@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D3E0D033-E7E0-47DA-BC6B-C9B4A30154D9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:20.7550849Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Kuwait",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Kuwait",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

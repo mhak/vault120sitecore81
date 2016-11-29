@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E12E6798-8D9B-43A8-9C35-0CE87406CD95}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:21.1621082Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Macao",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Macao",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

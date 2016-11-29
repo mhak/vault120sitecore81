@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A7C9DEDA-20BE-4C42-A5F1-171E230E04DC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:28.6965391Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Unit Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Unit Visits",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

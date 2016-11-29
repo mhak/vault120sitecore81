@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7EAD6FD6-6CF1-4ACA-AC6B-B200E7BAFE88}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:42:33.3206672Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Unpublish",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Publishing/Publishing/__Unpublish",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

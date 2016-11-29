@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{45AEE966-4535-4D22-ADFA-0B12F0AE7683}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:18.2509417Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Congo",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Congo",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

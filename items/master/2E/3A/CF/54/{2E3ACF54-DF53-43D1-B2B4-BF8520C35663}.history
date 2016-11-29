@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2E3ACF54-DF53-43D1-B2B4-BF8520C35663}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:25.3553480Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Wallis and Futuna",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Wallis and Futuna",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

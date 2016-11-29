@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ABA5CE58-6D8F-43A4-B4FA-B181651347DD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:42:07.5731946Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mime Type",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/File/Information/Mime Type",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

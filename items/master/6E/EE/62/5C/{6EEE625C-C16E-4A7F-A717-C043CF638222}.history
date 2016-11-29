@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6EEE625C-C16E-4A7F-A717-C043CF638222}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:53.9304142Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Repository Details",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Tag Repository/Repository Details",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

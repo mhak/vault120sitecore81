@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DE897397-6275-4F94-9C3C-B3D860A53320}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:13.0760775Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rule Elements Type Field Validator",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Rule Elements Type Field Validator",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

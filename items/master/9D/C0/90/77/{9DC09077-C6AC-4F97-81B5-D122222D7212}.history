@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9DC09077-C6AC-4F97-81B5-D122222D7212}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:15.8138023Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Flows",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Flows",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7D1340C0-7C54-4437-BF3D-E1D65C2EC661}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:15.5212174Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Applications",
+    "itemPath": "/sitecore/system/Social/Applications",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

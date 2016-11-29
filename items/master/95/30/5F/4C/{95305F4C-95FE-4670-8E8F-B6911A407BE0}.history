@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{95305F4C-95FE-4670-8E8F-B6911A407BE0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:30.1406217Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Classification",
+    "itemPath": "/sitecore/system/Settings/Analytics/Vendor Specific Filters/MongoDb/Business Classification",
+    "template": "Vendor Specific Filter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

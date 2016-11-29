@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{728EBB00-AF93-4F78-8B43-9395087CB76F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:39:45.7480826Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FXM",
+    "itemPath": "/sitecore/layout/Layouts/System/FXM",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

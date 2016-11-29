@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{936E7737-5D1E-45D5-AE4D-C207F16238A0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:42.8557808Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ConfidenceLevel",
+    "itemPath": "/sitecore/templates/System/Content Testing/Test Definition/Data/ConfidenceLevel",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

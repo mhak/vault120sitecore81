@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2C0B92B7-6F32-48AC-A880-14A07995F118}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:42:24.9831904Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Network Account",
+    "itemPath": "/sitecore/templates/System/Social/Account/Network Account",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

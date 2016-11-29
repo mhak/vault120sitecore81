@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5B6E8501-6D72-4DFB-A9AE-C2E8B1FD5CDE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:17.7613455Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ensure Proper Workflow State",
+    "itemPath": "/sitecore/system/Workflows/Path Analyzer Maps/Initializing/Ensure Proper Workflow State",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

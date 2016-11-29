@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0603F166-35B8-469F-8123-E8D87BEDC171}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:42:04.5070192Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Pdf",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Pdf",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

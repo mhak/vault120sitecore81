@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{10863561-7398-4C5D-8A99-B075B90C4E41}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:50.0501923Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Html Editor Class Translation",
+    "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor Class Translation",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

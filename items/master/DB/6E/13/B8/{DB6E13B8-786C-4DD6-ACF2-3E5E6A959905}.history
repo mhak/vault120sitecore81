@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DB6E13B8-786C-4DD6-ACF2-3E5E6A959905}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:26.8768669Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Goal Category",
+    "itemPath": "/sitecore/templates/System/Analytics/Goal Category",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

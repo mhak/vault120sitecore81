@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FF13BB5F-D493-4AE0-8822-41E19323346E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:46.9335822Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "User Agent",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device Detection/User Agent",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

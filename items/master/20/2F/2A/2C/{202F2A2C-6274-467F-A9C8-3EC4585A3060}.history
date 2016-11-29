@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{202F2A2C-6274-467F-A9C8-3EC4585A3060}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:42:38.9709904Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Critical Error",
+    "itemPath": "/sitecore/templates/System/Workflow/Validation Action/Data/Critical Error",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

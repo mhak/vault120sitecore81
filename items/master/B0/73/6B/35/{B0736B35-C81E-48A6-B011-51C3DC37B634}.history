@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B0736B35-C81E-48A6-B011-51C3DC37B634}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:24.2032821Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Svalbard and Jan Mayen",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Svalbard and Jan Mayen",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

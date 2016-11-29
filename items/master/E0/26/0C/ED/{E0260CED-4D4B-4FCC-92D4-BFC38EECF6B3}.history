@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E0260CED-4D4B-4FCC-92D4-BFC38EECF6B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:03.6235369Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "descending",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Order By Operators/descending",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2FFB6E47-F751-474D-B6BF-90AA17393D55}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:25.1517682Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Html editor",
+    "itemPath": "/sitecore/templates/System/Html editor",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

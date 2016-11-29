@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2DE5862D-5053-4F3C-9115-1F06A09091FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:39:47.2331676Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Android Tablet",
+    "itemPath": "/sitecore/layout/Simulators/Android Tablet",
+    "template": "Simulator",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

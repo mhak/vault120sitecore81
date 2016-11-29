@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{238D9B14-2DA6-435E-918E-F37615DA7658}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:08.4768144Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bucket",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Bucket",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

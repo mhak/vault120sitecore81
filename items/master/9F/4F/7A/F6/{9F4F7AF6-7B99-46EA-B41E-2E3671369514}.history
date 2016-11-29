@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9F4F7AF6-7B99-46EA-B41E-2E3671369514}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:19.4690114Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ghana",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Ghana",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

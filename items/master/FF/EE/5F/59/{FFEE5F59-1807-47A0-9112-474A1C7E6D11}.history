@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FFEE5F59-1807-47A0-9112-474A1C7E6D11}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:23.6192487Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Saudi Arabia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Saudi Arabia",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

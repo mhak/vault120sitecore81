@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5646D20E-B10A-42BA-876B-2A3BB3CBC641}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:03.3740908Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Close - Won",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Close - Won",
+    "template": "Outcome Definition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

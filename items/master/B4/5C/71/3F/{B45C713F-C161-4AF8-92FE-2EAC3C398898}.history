@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B45C713F-C161-4AF8-92FE-2EAC3C398898}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:58.3952378Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "InclusionOperator",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/InclusionOperator",
+    "template": "Macro",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

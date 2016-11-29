@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D0CB779E-5187-4E8B-B089-61C5581DE454}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:44.6758849Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Content Testing/Workflow/Test Candidate Check Action/__Standard Values",
+    "template": "Test Candidate Check Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

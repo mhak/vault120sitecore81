@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FD4E2050-186C-4375-8B99-E8A85DD7436E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:42:31.0645382Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Enable item fallback",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Advanced/Advanced/__Enable item fallback",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

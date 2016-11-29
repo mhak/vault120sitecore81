@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F50CD144-013F-4AD8-90BD-F01816E40CCC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:37.4800415Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MediaView",
+    "itemPath": "/sitecore/system/Settings/Buckets/Views/MediaView",
+    "template": "View",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

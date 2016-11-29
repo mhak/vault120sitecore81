@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2B6BE5E9-5A0B-425E-8CFF-959D7CC46581}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:04.6165937Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Attributes",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Item Attributes",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5AAB20C6-37A5-4B4B-9C7E-0A1056D9FFF4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:04.8561756Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Experience Map with Value Goals Only",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Default Maps/Global Maps/Experience Maps/Experience Map with Value Goals Only",
+    "template": "ExperienceMap",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

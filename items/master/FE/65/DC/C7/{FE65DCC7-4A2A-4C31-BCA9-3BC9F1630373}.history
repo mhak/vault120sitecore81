@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FE65DCC7-4A2A-4C31-BCA9-3BC9F1630373}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:39:58.7848283Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Like",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Like",
+    "template": "Goal",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

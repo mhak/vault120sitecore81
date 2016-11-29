@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F9EFD6A0-E8A7-45D7-A153-6FCC851794E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:52.4688988Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Current User Domain Name",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security/Current User Domain Name",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

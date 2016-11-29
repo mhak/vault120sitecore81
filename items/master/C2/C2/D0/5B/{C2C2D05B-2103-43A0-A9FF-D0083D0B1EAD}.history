@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C2C2D05B-2103-43A0-A9FF-D0083D0B1EAD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:37.3080317Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Tag",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2012/11/14/09/48/Test Tag",
+    "template": "Tag",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

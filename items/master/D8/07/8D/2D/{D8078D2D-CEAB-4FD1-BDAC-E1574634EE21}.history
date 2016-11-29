@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D8078D2D-CEAB-4FD1-BDAC-E1574634EE21}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:51.5212764Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tidy",
+    "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor Tidy/Data/Tidy",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

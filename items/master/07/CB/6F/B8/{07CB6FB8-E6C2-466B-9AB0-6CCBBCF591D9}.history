@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{07CB6FB8-E6C2-466B-9AB0-6CCBBCF591D9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:36.7124294Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Environment",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Card - Persona/Data/Environment",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

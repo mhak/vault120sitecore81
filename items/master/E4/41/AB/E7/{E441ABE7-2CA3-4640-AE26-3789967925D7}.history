@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E441ABE7-2CA3-4640-AE26-3789967925D7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:42:03.7219743Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Compatible Renderings",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/Rendering Options/Editor Options/Compatible Renderings",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

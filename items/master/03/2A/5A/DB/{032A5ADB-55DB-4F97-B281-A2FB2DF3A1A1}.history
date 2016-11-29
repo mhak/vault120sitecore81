@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{032A5ADB-55DB-4F97-B281-A2FB2DF3A1A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:42:28.6844021Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Post automatically",
+    "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Content Posting Configuration/Data/Post automatically",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

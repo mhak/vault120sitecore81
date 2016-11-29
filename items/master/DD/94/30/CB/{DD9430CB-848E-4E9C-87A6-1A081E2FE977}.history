@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DD9430CB-848E-4E9C-87A6-1A081E2FE977}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:24.0602740Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Spain",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Spain",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

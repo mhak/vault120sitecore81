@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F3BC1CC2-0724-4F7C-82A1-832F138431B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:56.3421204Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Profile Value",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Profile Value",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

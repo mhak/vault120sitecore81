@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6E76FB6B-DD18-41BE-B812-AF47E3715EB3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:41.4412681Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "String Operators",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

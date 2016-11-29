@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5CD3B26D-8BE0-4C89-B5A4-A0B13B2A996F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:42:29.0074205Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SharingControlParameters",
+    "itemPath": "/sitecore/templates/System/Social/Sharing/SharingControlParameters",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

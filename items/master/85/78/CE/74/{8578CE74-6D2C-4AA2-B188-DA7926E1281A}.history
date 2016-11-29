@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8578CE74-6D2C-4AA2-B188-DA7926E1281A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:23.6226807Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GooglePlus Account",
+    "itemPath": "/sitecore/templates/Branches/System/Social/GooglePlus Account",
+    "template": "Command Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

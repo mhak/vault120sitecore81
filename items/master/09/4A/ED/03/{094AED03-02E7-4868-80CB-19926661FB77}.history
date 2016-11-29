@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{094AED03-02E7-4868-80CB-19926661FB77}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:39:48.3402309Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "sc_logo",
+    "itemPath": "/sitecore/media library/Default Website/sc_logo",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

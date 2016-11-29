@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{060C8E77-016B-45CC-88F3-5BCD99B59008}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:39:48.5962455Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LinkedIn",
+    "itemPath": "/sitecore/media library/Images/Social/Connector/LinkedIn",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

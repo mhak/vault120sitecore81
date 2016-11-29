@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D83647B2-D38B-4148-A8C8-0D52B1A2FEDB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:19.6650226Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Guadeloupe",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guadeloupe",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

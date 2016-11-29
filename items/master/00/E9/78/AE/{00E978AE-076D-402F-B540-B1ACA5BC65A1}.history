@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{00E978AE-076D-402F-B540-B1ACA5BC65A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:34.5538742Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search Box Dropdown",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Box Dropdown",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

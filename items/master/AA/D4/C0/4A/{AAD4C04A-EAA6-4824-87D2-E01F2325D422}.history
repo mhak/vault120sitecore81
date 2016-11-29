@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AAD4C04A-EAA6-4824-87D2-E01F2325D422}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:42:22.8020656Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Security folder",
+    "itemPath": "/sitecore/templates/System/Security/Security folder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

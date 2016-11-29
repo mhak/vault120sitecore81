@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EA0642FA-500B-4B2F-B264-765E771C516F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:52.4378971Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Anonymous User",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security/Anonymous User",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

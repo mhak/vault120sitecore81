@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8E080626-DDC3-4EF4-A1D1-F0BE4A200254}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:13.4906694Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Internet",
+    "itemPath": "/sitecore/system/Publishing targets/Internet",
+    "template": "Publishing target",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

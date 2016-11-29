@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{77187DEB-5766-4FD2-A125-E6CDCB229BF1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:26.8594341Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "N-Dimensional Euclidian Distance",
+    "itemPath": "/sitecore/system/Settings/Analytics/Pattern Matching Types/N-Dimensional Euclidian Distance",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F83BBBC6-1470-4BE7-BA18-5E4CAFE4D0CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:02.9590670Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Non-branded organic search",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Filters/Non-branded organic search",
+    "template": "Filter",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FC5C3451-DFDE-4778-9901-5D0B1DA1E212}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:58.7326889Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Area",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Controller rendering/Data/Area",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

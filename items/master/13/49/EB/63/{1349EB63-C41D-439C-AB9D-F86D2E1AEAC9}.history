@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1349EB63-C41D-439C-AB9D-F86D2E1AEAC9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:39.3105780Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Stylesheet",
+    "itemPath": "/sitecore/templates/System/Browsers/Stylesheet",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

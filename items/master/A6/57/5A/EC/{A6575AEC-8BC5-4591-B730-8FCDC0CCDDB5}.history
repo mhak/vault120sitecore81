@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A6575AEC-8BC5-4591-B730-8FCDC0CCDDB5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:42:28.2163753Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Posting Configuration",
+    "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Content Posting Configuration",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

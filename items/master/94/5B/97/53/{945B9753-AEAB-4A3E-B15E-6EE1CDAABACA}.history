@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{945B9753-AEAB-4A3E-B15E-6EE1CDAABACA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:19.2880010Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "French Southern Territories",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/French Southern Territories",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

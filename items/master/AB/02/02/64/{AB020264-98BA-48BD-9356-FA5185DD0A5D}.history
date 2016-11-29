@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AB020264-98BA-48BD-9356-FA5185DD0A5D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:22.8112025Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Peru",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Peru",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

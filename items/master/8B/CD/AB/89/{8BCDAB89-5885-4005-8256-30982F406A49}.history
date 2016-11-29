@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8BCDAB89-5885-4005-8256-30982F406A49}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:42:10.9383870Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MapGroupFolder",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/MapGroupFolder",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

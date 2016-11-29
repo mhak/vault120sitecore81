@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DEB0F977-F9B6-41FA-A4A8-F9A7C4312C88}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:29.1215635Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Organization Visitors",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Organization Visitors",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

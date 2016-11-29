@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BB003F3F-1C68-4D36-90AF-39B568B94DFE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:42:23.4351018Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Password",
+    "itemPath": "/sitecore/templates/System/Security/User/Data/Password",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

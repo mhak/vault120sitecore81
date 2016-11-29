@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9D22AD6A-3205-452C-973F-3445BE123A2C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:38.2060831Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Original Winner",
+    "itemPath": "/sitecore/system/Settings/Content Testing/End Test Behavior/Is Content Test/Winner found/Original Winner",
+    "template": "Rule Container",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

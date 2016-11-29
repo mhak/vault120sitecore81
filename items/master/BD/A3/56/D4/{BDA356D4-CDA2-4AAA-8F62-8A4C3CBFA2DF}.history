@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BDA356D4-CDA2-4AAA-8F62-8A4C3CBFA2DF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:39:50.8143724Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Form Submitted",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Form Submitted",
+    "template": "Image",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

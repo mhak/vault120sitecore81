@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ECD93106-3728-4A69-B5F4-7EB1FC724AED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:42:26.9833048Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Key Rate Limits",
+    "itemPath": "/sitecore/templates/System/Social/Klout/Klout Application/Key Rate Limits",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

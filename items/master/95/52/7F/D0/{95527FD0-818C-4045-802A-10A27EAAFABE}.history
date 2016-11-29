@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{95527FD0-818C-4045-802A-10A27EAAFABE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:42:12.4354727Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TargetGoal",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/GoalMap/Options/TargetGoal",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

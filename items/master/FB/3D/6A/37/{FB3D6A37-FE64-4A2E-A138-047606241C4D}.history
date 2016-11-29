@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FB3D6A37-FE64-4A2E-A138-047606241C4D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:15.2777716Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Traffic Overview",
+    "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Overview/Traffic Overview",
+    "template": "Dashboard Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

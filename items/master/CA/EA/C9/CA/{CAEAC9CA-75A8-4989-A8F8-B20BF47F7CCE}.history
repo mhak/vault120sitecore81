@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CAEAC9CA-75A8-4989-A8F8-B20BF47F7CCE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:04.8161733Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}",
+    "workflowStateName": "Deployed",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Experience Map with Page Events",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Default Maps/Global Maps/Experience Maps/Experience Map with Page Events",
+    "template": "ExperienceMap",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

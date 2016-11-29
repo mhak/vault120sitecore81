@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B4CAB292-399E-4631-8EC1-C983B9182840}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:25.1157661Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Feeds",
+    "itemPath": "/sitecore/templates/System/Feeds",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

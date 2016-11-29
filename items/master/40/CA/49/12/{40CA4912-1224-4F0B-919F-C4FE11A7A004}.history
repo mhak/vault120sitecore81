@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{40CA4912-1224-4F0B-919F-C4FE11A7A004}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:42:19.9959051Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Macro",
+    "itemPath": "/sitecore/templates/System/Rules/Macro",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

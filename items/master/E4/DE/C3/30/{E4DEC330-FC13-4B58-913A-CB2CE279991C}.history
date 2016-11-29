@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E4DEC330-FC13-4B58-913A-CB2CE279991C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:13.7321150Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Checklist",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/Checklist",
+    "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

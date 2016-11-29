@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4D18B0A0-41D7-4EA2-89A2-192B1DC969FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:18.6249631Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dominica",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Dominica",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

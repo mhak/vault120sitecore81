@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{548275DC-06AC-4426-8267-49C56BC97110}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:12.4340408Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Empty Campaign",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Social/Empty Campaign",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

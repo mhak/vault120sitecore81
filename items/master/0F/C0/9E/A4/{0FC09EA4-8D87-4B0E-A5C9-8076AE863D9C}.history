@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0FC09EA4-8D87-4B0E-A5C9-8076AE863D9C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:27.1888847Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Profile Card",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Card",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

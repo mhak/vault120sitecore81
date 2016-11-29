@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{740D7D30-6919-4CA4-A5DA-C37CEAFA88FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:43.2743729Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bucket Item Name",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Bucketing/Bucket Item Name",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E2880B71-9F35-4752-BA3A-3A53FAE50331}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:14.7101710Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Not Serialized",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Development/Not Serialized",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

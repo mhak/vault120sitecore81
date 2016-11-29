@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B6CF70BC-3C87-4C9A-BA3D-3310326F5871}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:41:13.8461215Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Droptree",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/Droptree",
+    "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]

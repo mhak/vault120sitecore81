@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A45DBBAE-F74F-4EFE-BBD5-24395E0AF945}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-11-29T19:40:50.7678015Z",
+    "label": "Snapshot - baseline",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Layout",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Version CM/Layout",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.160519",
+    "vaultVersion": "1.2.0",
+    "deploymentId": null
+  }
+]
